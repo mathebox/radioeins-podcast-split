@@ -2,7 +2,7 @@ name: Generate Feeds
 
 on:
   schedule:
-  - cron: "0 8 * * 1-5"
+  - cron: "0 6-7 * * 1-4"
 
   # Allows to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -28,3 +28,5 @@ jobs:
           FOLDER: generated-feeds
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SQUASH_HISTORY: true
+          SKIP_EMPTY_COMMITS: true
+          
