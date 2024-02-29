@@ -21,7 +21,7 @@ def parse():
             root[0].remove(item)
 
     # Rename channel
-    root[0].find('title').text = 'Radio Eins: Gut & Börse'
+    root[0].find('title').text = 'Gut & Börse'
 
     # Change cover art of channel and episodes
     for href_tag in root[0].findall('.//*[@href]'):
