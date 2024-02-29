@@ -1,1 +1,2 @@
-generated-feeds/
+generated-feeds/*
+!generated-feeds/covers/

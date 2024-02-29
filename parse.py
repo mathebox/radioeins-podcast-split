@@ -3,6 +3,9 @@ from pathlib import Path
 import requests
 import xml.etree.ElementTree as ET
 
+FEED_URL = 'https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/radioeins-gut-und-boerse.xml'
+COVER_ART_URL = 'https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png'
+
 def parse():
     url = 'https://www.radioeins.de/export/updates.xml/feed=podcast.xml'
     r = requests.get(url)
@@ -19,6 +22,13 @@ def parse():
 
     # Rename channel
     root[0].find('title').text = 'Radio Eins: Gut & Börse'
+
+    # Change cover art of channel and episodes
+    for href_tag in root[0].findall('.//*[@href]'):
+        if 'image' in href_tag.tag:
+            href_tag.set('href', COVER_ART_URL)
+        elif 'link' in href_tag.tag:
+            href_tag.set('href', FEED_URL)
 
     # Remove empty lines
     xml = os.linesep.join([s for s in ET.tostring(root).decode("utf-8").splitlines() if s])
