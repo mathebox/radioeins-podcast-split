@@ -14,10 +14,7 @@ def parse():
     # Find and remove all items (podcast episodes) that don't have the title Gut & Börse'
     for item in root[0].findall('item'):
         title = item.find('title').text
-        if title == 'Gut & Börse':
-            publication_date = item.find('pubDate').text
-            item.find('title').text = f"{title} ({publication_date[:16]})"
-        else:
+        if not 'Gut & Börse' in title:
             root[0].remove(item)
 
     # Rename channel
