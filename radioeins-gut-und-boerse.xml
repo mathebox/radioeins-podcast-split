@@ -1,0 +1,112 @@
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" version="2.0">
+	
+	<channel>
+			<title>Gut &amp; B&#246;rse</title>
+			<link>https://www.radioeins.de/export/updates.html</link>
+			<description />
+			<pubDate>Thu, 11 Jul 2019 14:42:29 +0200</pubDate>
+			<language>de</language>
+			<copyright>radioeins 2023</copyright>
+			<managingEditor>rbbpodcast@rbb-online.de</managingEditor>
+			<webMaster>webmaster@rbb-online.de (webmaster rbb)</webMaster>
+			<category>Public Radio</category>
+			<ns0:subtitle />
+			<ns0:author>radioeins (rbb)</ns0:author>
+			<ns0:owner>
+				<ns0:name>radioeins (Rundfunk Berlin-Brandenburg)</ns0:name>
+				<ns0:email>rbbpodcast@rbb-online.de</ns0:email>
+			</ns0:owner>
+			<ns0:explicit>no</ns0:explicit>
+			<ns0:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+			<ns1:link href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/radioeins-gut-und-boerse.xml" rel="self" type="application/rss+xml" />
+			<image>
+				<url>https://www.rbb-online.de/content/dam/rbb/rad/team/standard.jpg.jpg/size=600x600.jpg</url>
+				<title>Updates Radio Eins</title>
+				<link>https://www.radioeins.de/export/updates.html</link>
+			</image>
+			<item>
+				<title>Gut &amp; B&#246;rse: Lufthansa und Donald Trump</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/donnerstag.html</link>
+				<pubDate>Thu, 28 Mar 2024 07:20:00 +0100</pubDate>
+				<description>Nach der Bahn jetzt die Lufthansa: Sind denn damit Streiks am Flughafen an Ostern vom Tisch? +++ Die Medienfirma von Donald Trump hat am Dienstag einen starken B&amp;#246;rsengang hingelegt, die Aktie steigt immer mehr an - warum?
+</description>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/9b/0d/9b0d687e-7b1b-48fb-b324-94920df48693/0026ad3b-9b84-450e-8fa0-bbac28a12781_1159ed25-9f02-482f-a7a9-a1ce64297756.mp3" type="audio/x-mpeg" length="4254606" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/9b/0d/9b0d687e-7b1b-48fb-b324-94920df48693/0026ad3b-9b84-450e-8fa0-bbac28a12781_1159ed25-9f02-482f-a7a9-a1ce64297756.mp3</guid>
+				
+				
+						<ns0:duration>00:03:33</ns0:duration>
+				<ns0:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns0:keywords>Timeicon, radioeins Serien, Politik &amp; Wirtschaft, Gut &amp; B&#246;rse, Wirtschaft</ns0:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/mittwoch.html</link>
+				<pubDate>Wed, 27 Mar 2024 07:20:00 +0100</pubDate>
+				<description>Br&amp;#252;ckeneinsturz in Baltimore: Welche Auswirkungen hat der Einsturz auf die Wirtschaft? +++ Gemeinschaftsdiagnose der Wirtschaftsforscher: D&amp;#252;steres Zeugnis f&amp;#252;r Deutschland, aber es gibt nicht nur Schatten.
+</description>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/19/ee/19eeefaf-fb1e-486a-9d19-8d1dd6472f30/339577d5-b7ff-4509-9097-d725d48370f0_53fdc5b5-b095-4644-9f60-026fd27c5591.mp3" type="audio/x-mpeg" length="4363086" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/19/ee/19eeefaf-fb1e-486a-9d19-8d1dd6472f30/339577d5-b7ff-4509-9097-d725d48370f0_53fdc5b5-b095-4644-9f60-026fd27c5591.mp3</guid>
+				
+				
+						<ns0:duration>00:03:38</ns0:duration>
+				<ns0:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns0:keywords>Timeicon, radioeins Serien, Politik &amp; Wirtschaft, Gut &amp; B&#246;rse, Wirtschaft</ns0:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/dienstag-1.html</link>
+				<pubDate>Tue, 26 Mar 2024 07:20:00 +0100</pubDate>
+				<description>Im Sch&amp;#246;nen Morgen werfen wir einen Blick auf wirtschaftliche Entwicklungen. Was machen Dax und Dow Jones? Wie sieht es auf dem Arbeitsmarkt aus? Was passiert in der Welt der Banken? Welche Unternehmen boomen, welche Unternehmen k&amp;#228;mpfen ums &amp;#220;berleben? Wie steht es um die Zinsen? Inflation oder Deflation? Fragen &amp;#252;ber Fragen, auf die Sie fundierte Antworten bekommen vom Wirtschaftsjournalisten Nicolas Lieven - immer montags bis donnerstags.
+</description>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/be/8e/be8e246d-49e1-4d6f-a99e-888b9cfa520c/01de5c9f-5d85-4752-9a6e-869bdf99b92d_ed922a9f-fba4-480b-8f22-cfacba62be21.mp3" type="audio/x-mpeg" length="4848350" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/be/8e/be8e246d-49e1-4d6f-a99e-888b9cfa520c/01de5c9f-5d85-4752-9a6e-869bdf99b92d_ed922a9f-fba4-480b-8f22-cfacba62be21.mp3</guid>
+				
+				
+						<ns0:duration>00:04:02</ns0:duration>
+				<ns0:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns0:keywords>Timeicon, radioeins Serien, Politik &amp; Wirtschaft, Gut &amp; B&#246;rse, Wirtschaft</ns0:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/montag.html</link>
+				<pubDate>Mon, 25 Mar 2024 07:20:00 +0100</pubDate>
+				<description>Im Sch&amp;#246;nen Morgen werfen wir einen Blick auf wirtschaftliche Entwicklungen. Was machen Dax und Dow Jones? Wie sieht es auf dem Arbeitsmarkt aus? Was passiert in der Welt der Banken? Welche Unternehmen boomen, welche Unternehmen k&amp;#228;mpfen ums &amp;#220;berleben? Wie steht es um die Zinsen? Inflation oder Deflation? Fragen &amp;#252;ber Fragen, auf die Sie fundierte Antworten bekommen vom Wirtschaftsjournalisten Nicolas Lieven - immer montags bis donnerstags.
+</description>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/0f/2c/0f2cb879-a4a6-4389-9610-7ae450ac72d3/c15cdbdf-9d59-4d55-b850-0f1753b83484_58f12084-b7f6-4def-80bb-fe2232b28f09.mp3" type="audio/x-mpeg" length="4230112" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/0f/2c/0f2cb879-a4a6-4389-9610-7ae450ac72d3/c15cdbdf-9d59-4d55-b850-0f1753b83484_58f12084-b7f6-4def-80bb-fe2232b28f09.mp3</guid>
+				
+				
+						<ns0:duration>00:03:31</ns0:duration>
+				<ns0:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns0:keywords>Timeicon, radioeins Serien, Politik &amp; Wirtschaft, Gut &amp; B&#246;rse, Wirtschaft</ns0:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Prozess um Hauskosten und B&#246;rsengang von Douglas </title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/donnerstag-2.html</link>
+				<pubDate>Thu, 21 Mar 2024 07:20:00 +0100</pubDate>
+				<description>Im Sch&amp;#246;nen Morgen werfen wir einen Blick auf wirtschaftliche Entwicklungen. Was machen Dax und Dow Jones? Wie sieht es auf dem Arbeitsmarkt aus? Was passiert in der Welt der Banken? Welche Unternehmen boomen, welche Unternehmen k&amp;#228;mpfen ums &amp;#220;berleben? Wie steht es um die Zinsen? Inflation oder Deflation? Fragen &amp;#252;ber Fragen, auf die Sie fundierte Antworten bekommen vom Wirtschaftsjournalisten Nicolas Lieven - immer montags bis donnerstags.
+</description>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/63/38/63389de7-dd80-4571-9456-a479838b6817/eb76104e-ed3d-499b-9918-413688184822_f8ee2857-4afb-450a-a27d-d7769acb4cda.mp3" type="audio/x-mpeg" length="4669310" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/63/38/63389de7-dd80-4571-9456-a479838b6817/eb76104e-ed3d-499b-9918-413688184822_f8ee2857-4afb-450a-a27d-d7769acb4cda.mp3</guid>
+				
+				
+						<ns0:duration>00:03:53</ns0:duration>
+				<ns0:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns0:keywords>Timeicon, radioeins Serien, Politik &amp; Wirtschaft, Gut &amp; B&#246;rse, Wirtschaft</ns0:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Steigende Zinsen in Japan und Sportwetten-Urteil</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/mittwoch-3.html</link>
+				<pubDate>Wed, 20 Mar 2024 07:20:00 +0100</pubDate>
+				<description>In Japan steigen die Zinsen auf 0,1 Prozent und die Welt ist nerv&amp;#246;s - warum eigentlich? // Urteil: Sportwetten-Spieler bekommt Geld zur&amp;#252;ck - mehr als eine halbe Million.
+</description>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/c8/75/c8757120-cb7a-4db1-94aa-5f1a0021c217/7f9b739f-0d6e-400d-b04b-713cd054e420_3570e5e7-7709-4c20-bbc6-5d555135ee5e.mp3" type="audio/x-mpeg" length="4982766" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/c8/75/c8757120-cb7a-4db1-94aa-5f1a0021c217/7f9b739f-0d6e-400d-b04b-713cd054e420_3570e5e7-7709-4c20-bbc6-5d555135ee5e.mp3</guid>
+				
+				
+						<ns0:duration>00:04:09</ns0:duration>
+				<ns0:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns0:keywords>Timeicon, radioeins Serien, Politik &amp; Wirtschaft, Gut &amp; B&#246;rse, Wirtschaft</ns0:keywords>
+			</item>
+			</channel>
+</rss>
