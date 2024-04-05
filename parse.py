@@ -6,6 +6,16 @@ import xml.etree.ElementTree as ET
 FEED_URL = 'https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/radioeins-gut-und-boerse.xml'
 COVER_ART_URL = 'https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png'
 
+def is_interesting(item):
+    if 'Gut & Börse' in item.find('title').text:
+        return True
+
+    if description := item.find('description').text:
+        if 'Finanztip' in description:
+            return True
+
+    return False
+
 def parse():
     url = 'https://www.radioeins.de/export/updates.xml/feed=podcast.xml'
     r = requests.get(url)
@@ -13,8 +23,7 @@ def parse():
 
     # Find and remove all items (podcast episodes) that don't have the title Gut & Börse'
     for item in root[0].findall('item'):
-        title = item.find('title').text
-        if not 'Gut & Börse' in title:
+        if not is_interesting(item):
             root[0].remove(item)
 
     # Rename channel
