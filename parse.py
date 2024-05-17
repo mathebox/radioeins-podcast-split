@@ -12,7 +12,7 @@ def is_interesting(item):
         return True
 
     if description := item.find('description').text:
-        if 'Finanztip' in description:
+        if 'finanztip' in description.lower():
             return True
 
     return False
