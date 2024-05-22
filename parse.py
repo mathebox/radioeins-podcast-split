@@ -27,6 +27,8 @@ def parse():
     for item in root[0].findall('item'):
         if not is_interesting(item):
             root[0].remove(item)
+        else:
+            print(f"> Found item from {item.find('pubDate').text}")
 
     # Rename channel
     root[0].find('title').text = 'Gut & Börse'
