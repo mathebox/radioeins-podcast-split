@@ -8,7 +8,8 @@ COVER_ART_URL = 'https://raw.githubusercontent.com/mathebox/radioeins-podcast-sp
 
 
 def is_interesting(item):
-    if 'Gut & Börse' in item.find('title').text:
+    title = item.find('title').text.lower()
+    if 'gut & börse' in title or 'gut und börse' in title:
         return True
 
     if description := item.find('description').text:
