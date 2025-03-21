@@ -1,0 +1,112 @@
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" version="2.0">
+	
+	<channel>
+			<title>Gut &amp; B&#246;rse</title>
+			<link>https://www.radioeins.de/export/updates.html</link>
+			<description />
+			<pubDate>Thu, 11 Jul 2019 14:42:29 +0200</pubDate>
+			<language>de</language>
+			<copyright>radioeins</copyright>
+			<managingEditor>rbbpodcast@rbb-online.de</managingEditor>
+			<webMaster>webmaster@rbb-online.de (webmaster rbb)</webMaster>
+			<category>Public Radio</category>
+			<ns0:subtitle />
+			<ns0:author>radioeins (rbb)</ns0:author>
+			<ns0:owner>
+				<ns0:name>radioeins (Rundfunk Berlin-Brandenburg)</ns0:name>
+				<ns0:email>rbbpodcast@rbb-online.de</ns0:email>
+			</ns0:owner>
+			<ns0:explicit>no</ns0:explicit>
+			<ns0:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+			<ns1:link href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/radioeins-gut-und-boerse.xml" rel="self" type="application/rss+xml" />
+			<image>
+				<url>https://www.rbb-online.de/content/dam/rbb/rad/team/standard.jpg.jpg/size=600x600.jpg</url>
+				<title>Updates Radio Eins</title>
+				<link>https://www.radioeins.de/export/updates.html</link>
+			</image>
+			<item>
+				<title>Gut &amp; B&#246;rse: Bauen wird Teurer</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20250320.html</link>
+				<pubDate>Thu, 20 Mar 2025 07:20:00 +0100</pubDate>
+				<description>Deutschland &amp;#228;chzt weiter unter einer akuten Wohnungsnot. Es gab einen Hoffnungsschimmer: Im Januar ist die Zahl der Baugenehmigungen zum zweiten Mal gestiegen. Doch das am Dienstag im Bundestag verabschiedete Mega-Schuldenpaket k&amp;#246;nnte die Lage weiter verschlechtern: Denn es verteuert nicht nur die Renditen f&amp;#252;r 10-j&amp;#228;hrige Bundesanleihen, sondern u.a. auch die Bauzinsen, die sich daran orientieren.
+</description>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/71/09/71090574-b450-45ef-bf9c-c0e7a7e02ba1/757437ec-5750-405f-a3b2-ebc89fc9fea2_1f1dd6a4-cc61-4098-911a-df1a3027a99a_256k.mp3" type="audio/x-mpeg" length="8784150" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/71/09/71090574-b450-45ef-bf9c-c0e7a7e02ba1/757437ec-5750-405f-a3b2-ebc89fc9fea2_1f1dd6a4-cc61-4098-911a-df1a3027a99a_256k.mp3</guid>
+				
+				
+						<ns0:duration>00:04:34</ns0:duration>
+				<ns0:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns0:keywords>Timeicon, Politik &amp; Wirtschaft, Wirtschaft</ns0:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Finanzpaket - Woher kommt das Geld?</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20250319.html</link>
+				<pubDate>Wed, 19 Mar 2025 07:20:00 +0100</pubDate>
+				<description>Eine Billion Euro: Woher bekommt der Staat neues Geld? Wie l&amp;#228;uft das ab? Wo liegen die Risiken? Was sind die negativen Folgen?
+</description>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/9c/ec/9cecb1bc-cb51-41f9-8a7e-8abb93e0902f/4d52f4b2-0020-4670-a99a-5c675a96b5dd_a610246d-298b-4e93-ab8f-7ff637a07966_256k.mp3" type="audio/x-mpeg" length="8190486" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/9c/ec/9cecb1bc-cb51-41f9-8a7e-8abb93e0902f/4d52f4b2-0020-4670-a99a-5c675a96b5dd_a610246d-298b-4e93-ab8f-7ff637a07966_256k.mp3</guid>
+				
+				
+						<ns0:duration>00:04:16</ns0:duration>
+				<ns0:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns0:keywords>Timeicon, Politik &amp; Wirtschaft, Wirtschaft</ns0:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Tarifverhandlungen im &#214;ffentlichen Dienst gescheitert &amp; Eierknappheit in den USA</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20250318.html</link>
+				<pubDate>Tue, 18 Mar 2025 07:20:00 +0100</pubDate>
+				<description>Es gibt weiter keine Einigung im Tarifstreit beim &amp;#214;ffentlichen Dienst. Gestern Abend sind die Verhandlungen nach viert&amp;#228;gigen Beratungen von den Arbeitgebern f&amp;#252;r gescheitert erkl&amp;#228;rt worden. // Vor Ostern: Weil in den USA die Eier knapp sind, steigen hier die Preise - und es d&amp;#252;rfte noch teurer werden.
+</description>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/ee/10/ee109523-afa3-4c4b-a9c8-7b28588b3c29/42e7dc09-2ba0-42a7-8f8c-3fe52f8635f9_d5186950-85db-40d3-a4ee-5b0f3dce1cbc_256k.mp3" type="audio/x-mpeg" length="8231191" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/ee/10/ee109523-afa3-4c4b-a9c8-7b28588b3c29/42e7dc09-2ba0-42a7-8f8c-3fe52f8635f9_d5186950-85db-40d3-a4ee-5b0f3dce1cbc_256k.mp3</guid>
+				
+				
+						<ns0:duration>00:04:17</ns0:duration>
+				<ns0:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns0:keywords>Timeicon, Politik &amp; Wirtschaft, Wirtschaft</ns0:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Wie die Politik die Aktien beeinflusst Klage gegen RWE</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20250317.html</link>
+				<pubDate>Mon, 17 Mar 2025 07:20:00 +0100</pubDate>
+				<description>Spannende politische Woche und ihr Einfluss auf die B&amp;#246;rse // Bauer aus Peru klagt gegen Energiekonzern RWE wegen Klimawandel.
+</description>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/4e/fe/4efe3d5b-4497-4310-bca6-73a6fd0dfa98/0b697a08-a880-433a-a808-e958234fd159_c5f6e066-d0ca-480b-927e-88b42c2d963f_256k.mp3" type="audio/x-mpeg" length="8182035" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/4e/fe/4efe3d5b-4497-4310-bca6-73a6fd0dfa98/0b697a08-a880-433a-a808-e958234fd159_c5f6e066-d0ca-480b-927e-88b42c2d963f_256k.mp3</guid>
+				
+				
+						<ns0:duration>00:04:16</ns0:duration>
+				<ns0:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns0:keywords>Timeicon, Politik &amp; Wirtschaft, Wirtschaft</ns0:keywords>
+			</item>
+			<item>
+				<title>Sind ETFs als Altersvorsorge noch sicher?</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/sind-etfs-als-altersvorsorge-noch-sicher.html</link>
+				<pubDate>Fri, 14 Mar 2025 07:20:00 +0100</pubDate>
+				<description>Aktiensparen zum Beispiel f&amp;#252;r die Rente, das gehe auch, wenn man sich nicht so gut an der B&amp;#246;rse auskennt - so wurde es in den vergangenen Jahren vielen Verbraucherinnen und Verbrauchern erkl&amp;#228;rt: N&amp;#228;mlich unter anderem mit b&amp;#246;rsengehandelten Indexfonds, sogenannten ETFs. Besonders beliebt: ETFs auf den Index MSCI World. Der hat sich sehr lange sehr gut entwickelt. Doch zuletzt ging es abw&amp;#228;rts. Viele Anleger sind verunsichert. Finanzexperte Hermann-Josef Tenhagen, Chefredakteur bei "Finanztip", mit den Verbrauchertipps.
+</description>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/4d/c6/4dc6a83e-6fd4-451b-96e0-0605fae952a3/4fd75a8c-27fd-4894-a612-77faa1f2570f_5cc563a0-7936-4493-84e8-d3d6dda30326_256k.mp3" type="audio/x-mpeg" length="9963815" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/4d/c6/4dc6a83e-6fd4-451b-96e0-0605fae952a3/4fd75a8c-27fd-4894-a612-77faa1f2570f_5cc563a0-7936-4493-84e8-d3d6dda30326_256k.mp3</guid>
+				
+				
+						<ns0:duration>00:05:11</ns0:duration>
+				<ns0:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns0:keywords>Timeicon, Politik &amp; Wirtschaft, topthema, Wirtschaft</ns0:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Batterieproduktion in Europa</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20250313.html</link>
+				<pubDate>Thu, 13 Mar 2025 07:20:00 +0100</pubDate>
+				<description>Der deutsche Tochterunternehmen der schwedischen Batterieproduktionsfirma Northvolt baut in Heide weiter. Doch die Muttergesellschaft ist insolvent. Das ist ein herber R&amp;#252;ckschlag f&amp;#252;r die europ&amp;#228;ische Batterieproduktion, denn die Politik will die Batterieproduktion in Deutschland und Europa f&amp;#246;rdern, um sich unabh&amp;#228;ngiger von China zu machen. Wir sprechen dar&amp;#252;ber mit Nicolas Lieven, Wirtschaftsjournalist auf radioeins.
+</description>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/02/a7/02a7822a-5fde-4017-b4a1-ae796caf4010/db769568-dcc5-414c-82be-68d504d345d0_da302da9-b55c-402a-aff3-06848e371339_256k.mp3" type="audio/x-mpeg" length="8629015" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/02/a7/02a7822a-5fde-4017-b4a1-ae796caf4010/db769568-dcc5-414c-82be-68d504d345d0_da302da9-b55c-402a-aff3-06848e371339_256k.mp3</guid>
+				
+				
+						<ns0:duration>00:04:30</ns0:duration>
+				<ns0:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns0:keywords>Timeicon, Politik &amp; Wirtschaft, Wirtschaft</ns0:keywords>
+			</item>
+			</channel>
+</rss>
