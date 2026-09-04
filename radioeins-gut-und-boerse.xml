@@ -1,0 +1,141 @@
+<rss xmlns:ns0="http://purl.org/rss/1.0/modules/content/" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns2="http://www.w3.org/2005/Atom" version="2.0">
+	
+	<channel>
+			<title>Gut &amp; B&#246;rse</title>
+			<link>https://www.radioeins.de/export/updates.html</link>
+			<description />
+			<ns0:encoded />
+			<pubDate>Thu, 11 Jul 2019 14:42:29 +0200</pubDate>
+			<language>de</language>
+			<copyright>radioeins</copyright>
+			<managingEditor>rbbpodcast@rbb-online.de</managingEditor>
+			<webMaster>webmaster@rbb-online.de (webmaster rbb)</webMaster>
+			<category>Public Radio</category>
+			<ns1:subtitle />
+			<ns1:author>radioeins (rbb)</ns1:author>
+			<ns1:owner>
+				<ns1:name>radioeins (Rundfunk Berlin-Brandenburg)</ns1:name>
+				<ns1:email>rbbpodcast@rbb-online.de</ns1:email>
+			</ns1:owner>
+			<ns1:explicit>no</ns1:explicit>
+			<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+			<ns2:link href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/radioeins-gut-und-boerse.xml" rel="self" type="application/rss+xml" />
+			<image>
+				<url />
+				<title>Updates Radio Eins</title>
+				<link>https://www.radioeins.de/export/updates.html</link>
+			</image>
+			<item>
+				<title>Was bringt die Einkommenssteuerreform?</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/was-bringt-die-einkommenssteuerreform.html</link>
+				<pubDate>Fri, 04 Sep 2026 07:20:00 +0200</pubDate>
+				<description>Diese Woche hat die schwarz-rote Koalition die Pl&amp;#228;ne f&amp;#252;r eine Einkommenssteuerreform abgesegnet. Mit der Reform will die Regierung ein Signal der Unterst&amp;#252;tzung setzen: Entlastungen bei der Steuer vor allem f&amp;#252;r kleinere Einkommen. Was das aber genau hei&amp;#223;t, wei&amp;#223; Hermann-Josef Tenhagen, Chefredakteur von finanztip.de.
+</description>
+				<ns0:encoded>&lt;p&gt;Diese Woche hat die schwarz-rote Koalition die Pl&#228;ne f&#252;r eine Einkommenssteuerreform abgesegnet. Mit der Reform will die Regierung ein Signal der Unterst&#252;tzung setzen: Entlastungen bei der Steuer vor allem f&#252;r kleinere Einkommen. Was das aber genau hei&#223;t, wei&#223; Hermann-Josef Tenhagen, Chefredakteur von finanztip.de.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/81/81/81818c3a-73d7-4e6d-9f70-3f0cf8b74e48/81818c3a-73d7-4e6d-9f70-3f0cf8b74e48_mp3-256kd.mp3" type="audio/x-mpeg" length="7674465" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/81/81/81818c3a-73d7-4e6d-9f70-3f0cf8b74e48/81818c3a-73d7-4e6d-9f70-3f0cf8b74e48_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:00</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Machtkampf bei Volkswagen und KI-Urheberrecht</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20260903.html</link>
+				<pubDate>Thu, 03 Sep 2026 07:20:00 +0200</pubDate>
+				<description>Vor der Aufsichtsratssitzung bei VW droht wegen geplanter Werksschlie&amp;#223;ungen ein Eklat zwischen Vorstand, Betriebsrat und dem Land Niedersachsen. Zudem verhandelt der BGH &amp;#252;ber Urheberrechte beim KI-Training. Einsch&amp;#228;tzungen von radioeins-Wirtschaftsexperte Nicolas Lieven auf radioeins.
+</description>
+				<ns0:encoded>&lt;p&gt;Vor der Aufsichtsratssitzung bei VW droht wegen geplanter Werksschlie&#223;ungen ein Eklat zwischen Vorstand, Betriebsrat und dem Land Niedersachsen. Zudem verhandelt der BGH &#252;ber Urheberrechte beim KI-Training. Einsch&#228;tzungen von radioeins-Wirtschaftsexperte Nicolas Lieven auf radioeins.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/8c/aa/8caa7b0f-2b12-488e-9023-dc73ee7b32eb/8caa7b0f-2b12-488e-9023-dc73ee7b32eb_mp3-256kd.mp3" type="audio/x-mpeg" length="8445537" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/8c/aa/8caa7b0f-2b12-488e-9023-dc73ee7b32eb/8caa7b0f-2b12-488e-9023-dc73ee7b32eb_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:24</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Steuerreform und Trinkgeld</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20260902.html</link>
+				<pubDate>Wed, 02 Sep 2026 07:20:00 +0200</pubDate>
+				<description>Die Einkommensteuerreform soll Entlastung bringen, l&amp;#228;sst jedoch den Ausgleich der kalten Progression vermissen. Warum die Pl&amp;#228;ne unzureichend greifen und weshalb digitale Trinkgeldabfragen zunehmend den Modehandel erreichen, analysiert radioeins-Wirtschaftsexperte Nicolas Lieven auf radioeins.
+</description>
+				<ns0:encoded>&lt;p&gt;Die Einkommensteuerreform soll Entlastung bringen, l&#228;sst jedoch den Ausgleich der kalten Progression vermissen. Warum die Pl&#228;ne unzureichend greifen und weshalb digitale Trinkgeldabfragen zunehmend den Modehandel erreichen, analysiert radioeins-Wirtschaftsexperte Nicolas Lieven auf radioeins.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/48/ed/48edcf2b-54a8-4715-bd97-16afc84393f9/48edcf2b-54a8-4715-bd97-16afc84393f9_mp3-256kd.mp3" type="audio/x-mpeg" length="8589153" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/48/ed/48edcf2b-54a8-4715-bd97-16afc84393f9/48edcf2b-54a8-4715-bd97-16afc84393f9_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:28</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Teuerung zieht an und Shein schw&#228;chelt</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20260901.html</link>
+				<pubDate>Tue, 01 Sep 2026 07:20:00 +0200</pubDate>
+				<description>Die Inflationsrate in Deutschland steigt durch hohe Energiepreise und D&amp;#252;rrefolgen weiter an. Gleichzeitig verlief der B&amp;#246;rsengang des Fast-Fashion-H&amp;#228;ndlers Shein nach neuen Importz&amp;#246;llen entt&amp;#228;uschend. Die wirtschaftlichen Hintergr&amp;#252;nde erl&amp;#228;utert der radioeins-Wirtschaftsexperte Nicolas Lieven auf radioeins.
+</description>
+				<ns0:encoded>&lt;p&gt;Die Inflationsrate in Deutschland steigt durch hohe Energiepreise und D&#252;rrefolgen weiter an. Gleichzeitig verlief der B&#246;rsengang des Fast-Fashion-H&#228;ndlers Shein nach neuen Importz&#246;llen entt&#228;uschend. Die wirtschaftlichen Hintergr&#252;nde erl&#228;utert der radioeins-Wirtschaftsexperte Nicolas Lieven auf radioeins.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/7f/5f/7f5fb1c9-18b9-4c65-8f27-b5738c1b3a31/7f5fb1c9-18b9-4c65-8f27-b5738c1b3a31_mp3-256kd.mp3" type="audio/x-mpeg" length="8433249" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/7f/5f/7f5fb1c9-18b9-4c65-8f27-b5738c1b3a31/7f5fb1c9-18b9-4c65-8f27-b5738c1b3a31_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:23</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: &#214;lpreise, Zinsdebatten und Hamsterk&#228;ufe</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20260831.html</link>
+				<pubDate>Mon, 31 Aug 2026 07:20:00 +0200</pubDate>
+				<description>Die Wirtschaftswoche startet gepr&amp;#228;gt von geopolitischen Konflikten, steigenden &amp;#214;lpreisen und wegweisenden VW-Aufsichtsratssitzungen. Warum in den USA zudem der Markt f&amp;#252;r Toilettenpapier unter Druck ger&amp;#228;t, erl&amp;#228;utert radioeins-Wirtschaftsexperte Nicolas Lieven auf radioeins.
+</description>
+				<ns0:encoded>&lt;p&gt;Die Wirtschaftswoche startet gepr&#228;gt von geopolitischen Konflikten, steigenden &#214;lpreisen und wegweisenden VW-Aufsichtsratssitzungen.&lt;sup&gt;&lt;/sup&gt; Warum in den USA zudem der Markt f&#252;r Toilettenpapier unter Druck ger&#228;t, erl&#228;utert radioeins-Wirtschaftsexperte Nicolas Lieven auf radioeins.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/72/14/7214e0e2-1281-4637-ba07-f01eabbed720/7214e0e2-1281-4637-ba07-f01eabbed720_mp3-256kd.mp3" type="audio/x-mpeg" length="7921761" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/72/14/7214e0e2-1281-4637-ba07-f01eabbed720/7214e0e2-1281-4637-ba07-f01eabbed720_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:07</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Wenn das Geld nicht mehr reicht: Wege aus der Schuldenfalle</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/wenn-das-geld-nicht-mehr-reicht-wege-aus-der-schuldenfalle.html</link>
+				<pubDate>Fri, 28 Aug 2026 07:20:00 +0200</pubDate>
+				<description>Steigende Lebenshaltungskosten und ein schw&amp;#228;cherer Arbeitsmarkt bringen immer mehr Menschen in finanzielle Schwierigkeiten. Wie Betroffene eine drohende &amp;#220;berschuldung erkennen und welche Schritte dann wichtig sind, erkl&amp;#228;rt Finanztip-Chefredakteur Hermann-Josef Tenhagen.
+</description>
+				<ns0:encoded>&lt;p&gt;Steigende Lebenshaltungskosten und ein schw&#228;cherer Arbeitsmarkt bringen immer mehr Menschen in finanzielle Schwierigkeiten. Wie Betroffene eine drohende &#220;berschuldung erkennen und welche Schritte dann wichtig sind, erkl&#228;rt Finanztip-Chefredakteur Hermann-Josef Tenhagen.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/04/c8/04c8890c-ef51-493d-b85a-f68b59f396a3/04c8890c-ef51-493d-b85a-f68b59f396a3_mp3-256kd.mp3" type="audio/x-mpeg" length="8448609" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/04/c8/04c8890c-ef51-493d-b85a-f68b59f396a3/04c8890c-ef51-493d-b85a-f68b59f396a3_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:24</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: US-Vergleich f&#252;r Meta und Rekordzahlen bei Nvidia</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20260827.html</link>
+				<pubDate>Thu, 27 Aug 2026 07:20:00 +0200</pubDate>
+				<description>Ein Vergleich in den USA verpflichtet Meta zu strengeren Schutzregeln f&amp;#252;r Jugendliche auf Instagram und Facebook. Unterdessen meldet der Chipkonzern Nvidia erneut ein starkes Quartalswachstum. Die wirtschaftlichen Hintergr&amp;#252;nde analysiert Nicolas Lieven auf radioeins.
+</description>
+				<ns0:encoded>&lt;p&gt;Ein Vergleich in den USA verpflichtet Meta zu strengeren Schutzregeln f&#252;r Jugendliche auf Instagram und Facebook. Unterdessen meldet der Chipkonzern Nvidia erneut ein starkes Quartalswachstum. Die wirtschaftlichen Hintergr&#252;nde analysiert Nicolas Lieven auf radioeins.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/af/03/af034b1d-af50-462d-b7aa-c8ac1e6bd0c1/af034b1d-af50-462d-b7aa-c8ac1e6bd0c1_mp3-256kd.mp3" type="audio/x-mpeg" length="7394913" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/af/03/af034b1d-af50-462d-b7aa-c8ac1e6bd0c1/af034b1d-af50-462d-b7aa-c8ac1e6bd0c1_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:03:51</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, Wirtschaft</ns1:keywords>
+			</item>
+			</channel>
+</rss>
