@@ -1,0 +1,141 @@
+<rss xmlns:ns0="http://purl.org/rss/1.0/modules/content/" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns2="http://www.w3.org/2005/Atom" version="2.0">
+	
+	<channel>
+			<title>Gut &amp; B&#246;rse</title>
+			<link>https://www.radioeins.de/export/updates.html</link>
+			<description />
+			<ns0:encoded />
+			<pubDate>Thu, 11 Jul 2019 14:42:29 +0200</pubDate>
+			<language>de</language>
+			<copyright>radioeins</copyright>
+			<managingEditor>rbbpodcast@rbb-online.de</managingEditor>
+			<webMaster>webmaster@rbb-online.de (webmaster rbb)</webMaster>
+			<category>Public Radio</category>
+			<ns1:subtitle />
+			<ns1:author>radioeins (rbb)</ns1:author>
+			<ns1:owner>
+				<ns1:name>radioeins (Rundfunk Berlin-Brandenburg)</ns1:name>
+				<ns1:email>rbbpodcast@rbb-online.de</ns1:email>
+			</ns1:owner>
+			<ns1:explicit>no</ns1:explicit>
+			<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+			<ns2:link href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/radioeins-gut-und-boerse.xml" rel="self" type="application/rss+xml" />
+			<image>
+				<url />
+				<title>Updates Radio Eins</title>
+				<link>https://www.radioeins.de/export/updates.html</link>
+			</image>
+			<item>
+				<title>Gut &amp; B&#246;rse: Tankrabatt und BGH-Urteil zu Amazon</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20261001_d.html</link>
+				<pubDate>Thu, 01 Oct 2026 07:20:00 +0200</pubDate>
+				<description>Der Tankrabatt soll Autofahrende entlasten, doch weltweite Roh&amp;#246;lrisiken dr&amp;#252;cken auf die Preise. Zeitgleich verhandelt der BGH &amp;#252;ber die Amazon-Prime-Preiserh&amp;#246;hung von 2022. Weil die aktive Zustimmung der Kundschaft fehlte, winken Erstattungen. Die Hintergr&amp;#252;nde analysiert der Wirtschaftsexperte Nicolas Lieven auf radioeins.
+</description>
+				<ns0:encoded>&lt;p&gt;Der Tankrabatt soll Autofahrende entlasten, doch weltweite Roh&#246;lrisiken dr&#252;cken auf die Preise. Zeitgleich verhandelt der BGH &#252;ber die Amazon-Prime-Preiserh&#246;hung von 2022. Weil die aktive Zustimmung der Kundschaft fehlte, winken Erstattungen. Die Hintergr&#252;nde analysiert der Wirtschaftsexperte Nicolas Lieven auf radioeins.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/88/59/88595b88-8ce7-496b-82d2-176ba1f816b4/88595b88-8ce7-496b-82d2-176ba1f816b4_mp3-256kd.mp3" type="audio/x-mpeg" length="6432609" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/88/59/88595b88-8ce7-496b-82d2-176ba1f816b4/88595b88-8ce7-496b-82d2-176ba1f816b4_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:03:21</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Gasspeicher, Preisvergleiche und D&#246;ner-Inflation</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20260930_c.html</link>
+				<pubDate>Wed, 30 Sep 2026 07:20:00 +0200</pubDate>
+				<description>Die Gasspeicher sind zu leer, jetzt greift der Staat durch: Per Dekret wird die Bef&amp;#252;llung angeordnet &amp;#8211; mit teuren Folgen f&amp;#252;r den Winter. Was das f&amp;#252;r die Preise bedeutet, warum Kroatiens Speisekarten bald alte Preise zeigen und wie es um den D&amp;#246;ner steht, analysiert Wirtschaftsexperte Nicolas Lieven auf radioeins.
+</description>
+				<ns0:encoded>&lt;p&gt;Die Gasspeicher sind zu leer, jetzt greift der Staat durch: Per Dekret wird die Bef&#252;llung angeordnet &#8211; mit teuren Folgen f&#252;r den Winter. Was das f&#252;r die Preise bedeutet, warum Kroatiens Speisekarten bald alte Preise zeigen und wie es um den D&#246;ner steht, analysiert Wirtschaftsexperte Nicolas Lieven auf radioeins.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/95/a5/95a53e74-8ff2-4c79-9926-b2c073b040db/95a53e74-8ff2-4c79-9926-b2c073b040db_mp3-256kd.mp3" type="audio/x-mpeg" length="8354913" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/95/a5/95a53e74-8ff2-4c79-9926-b2c073b040db/95a53e74-8ff2-4c79-9926-b2c073b040db_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:21</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: E-Auto-Vergleich und Klage gegen App-Rabatte</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20260929_b.html</link>
+				<pubDate>Tue, 29 Sep 2026 07:20:00 +0200</pubDate>
+				<description>Ein Umstieg auf das Elektroauto kann unter passenden Bedingungen sp&amp;#252;rbare Ersparnisse bringen, erfordert jedoch eine genaue Gesamtkostenrechnung aus Ladeoptionen, Anschaffung und Nebenkosten. Unterdessen entscheidet ein Gericht &amp;#252;ber die Rechtm&amp;#228;&amp;#223;igkeit exklusiver Smartphone-Rabatte bei Handelsketten. Wirtschaftsexperte Nicolas Lieven ordnet die Rechenbeispiele und die verbraucherschutzrechtliche Debatte auf radioeins ein.
+</description>
+				<ns0:encoded>&lt;p&gt;Ein Umstieg auf das Elektroauto kann unter passenden Bedingungen sp&#252;rbare Ersparnisse bringen, erfordert jedoch eine genaue Gesamtkostenrechnung aus Ladeoptionen, Anschaffung und Nebenkosten. Unterdessen entscheidet ein Gericht &#252;ber die Rechtm&#228;&#223;igkeit exklusiver Smartphone-Rabatte bei Handelsketten. Wirtschaftsexperte Nicolas Lieven ordnet die Rechenbeispiele und die verbraucherschutzrechtliche Debatte auf radioeins ein.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/f3/93/f3930e27-67ef-4078-ae94-190d913be65a/f3930e27-67ef-4078-ae94-190d913be65a_mp3-256kd.mp3" type="audio/x-mpeg" length="8824929" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/f3/93/f3930e27-67ef-4078-ae94-190d913be65a/f3930e27-67ef-4078-ae94-190d913be65a_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:36</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: VW-R&#252;ckrufaktion und verhaltene Konsumlaune</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20260928_a.html</link>
+				<pubDate>Mon, 28 Sep 2026 07:20:00 +0200</pubDate>
+				<description>Ein millionenfacher R&amp;#252;ckruf wegen fehlerhafter Lenkschrauben belastet den VW-Konzern in einer ohnehin angespannten Phase. Zudem kommen leicht positive Konjunkturprognosen der OECD durch gestiegene Preise noch nicht bei den Verbraucherinnen und Verbrauchern an. &amp;#220;ber Werkstattengp&amp;#228;sse und die Realit&amp;#228;t hinter den Wirtschaftszahlen berichtet der radioeins-Wirtschaftsexperte Nicolas Lieven.
+</description>
+				<ns0:encoded>&lt;p&gt;Ein millionenfacher R&#252;ckruf wegen fehlerhafter Lenkschrauben belastet den VW-Konzern in einer ohnehin angespannten Phase. Zudem kommen leicht positive Konjunkturprognosen der OECD durch gestiegene Preise noch nicht bei den Verbraucherinnen und Verbrauchern an. &#220;ber Werkstattengp&#228;sse und die Realit&#228;t hinter den Wirtschaftszahlen berichtet der radioeins-Wirtschaftsexperte Nicolas Lieven.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/1a/bf/1abf148b-3c58-4e8b-87a4-9c24db215d09/1abf148b-3c58-4e8b-87a4-9c24db215d09_mp3-256kd.mp3" type="audio/x-mpeg" length="9356306" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/1a/bf/1abf148b-3c58-4e8b-87a4-9c24db215d09/1abf148b-3c58-4e8b-87a4-9c24db215d09_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:52</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Reform der privaten Rente und das Ende von Riester</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/_/reform-der-privaten-rente-und-das-ende-von-riester.html</link>
+				<pubDate>Fri, 25 Sep 2026 07:20:00 +0200</pubDate>
+				<description>Zum Jahreswechsel l&amp;#246;st ein neues F&amp;#246;rdersystem die Riester-Rente ab. Wer k&amp;#252;nftig f&amp;#252;rs Alter spart, kann unter anderem auf renditestarke ETFs setzen, von geringeren Kosten profitieren und bis zu 540 Euro Zulagen erhalten. Wie das neue Altersvorsorgedepot funktioniert, erkl&amp;#228;rt Finanztip-Chefredakteur Hermann-Josef Tenhagen auf radioeins.
+</description>
+				<ns0:encoded>&lt;p&gt;Zum Jahreswechsel l&#246;st ein neues F&#246;rdersystem die Riester-Rente ab. Wer k&#252;nftig f&#252;rs Alter spart, kann unter anderem auf renditestarke ETFs setzen, von geringeren Kosten profitieren und bis zu 540 Euro Zulagen erhalten. Wie das neue Altersvorsorgedepot funktioniert, erkl&#228;rt Finanztip-Chefredakteur Hermann-Josef Tenhagen auf radioeins.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/42/06/42065322-c473-4b0b-8bd0-848e7ba83c12/42065322-c473-4b0b-8bd0-848e7ba83c12_mp3-256kd.mp3" type="audio/x-mpeg" length="7904018" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/42/06/42065322-c473-4b0b-8bd0-848e7ba83c12/42065322-c473-4b0b-8bd0-848e7ba83c12_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:07</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>r1s-top, Politik &amp; Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Handelsstreit und Street-Art-Urteil</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20260924_d.html</link>
+				<pubDate>Thu, 24 Sep 2026 07:20:00 +0200</pubDate>
+				<description>Beim Treffen von Donald Trump und Chinas Staatsf&amp;#252;hrung steht die Verl&amp;#228;ngerung der Zollpause im Fokus, w&amp;#228;hrend Streitpunkte bei Hightech und Seltenen Erden fortbestehen. Vor dem Bundesgerichtshof geht es derweil um die Grenzen von Street-Art an Hausfassaden. Die Hintergr&amp;#252;nde erl&amp;#228;utert der radioeins-Wirtschaftsexperte Nicolas Lieven.
+</description>
+				<ns0:encoded>&lt;p&gt;Beim Treffen von Donald Trump und Chinas Staatsf&#252;hrung steht die Verl&#228;ngerung der Zollpause im Fokus, w&#228;hrend Streitpunkte bei Hightech und Seltenen Erden fortbestehen. Vor dem Bundesgerichtshof geht es derweil um die Grenzen von Street-Art an Hausfassaden. Die Hintergr&#252;nde erl&#228;utert der radioeins-Wirtschaftsexperte Nicolas Lieven.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/84/cb/84cbcdf2-887d-44bd-9ad0-3a2437fd1773/84cbcdf2-887d-44bd-9ad0-3a2437fd1773_mp3-256kd.mp3" type="audio/x-mpeg" length="6997008" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/84/cb/84cbcdf2-887d-44bd-9ad0-3a2437fd1773/84cbcdf2-887d-44bd-9ad0-3a2437fd1773_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:03:39</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Zuversicht bei Wachstumsprognosen und Bitcoin im Aufwind </title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20260923.html</link>
+				<pubDate>Wed, 23 Sep 2026 07:20:00 +0200</pubDate>
+				<description>Die f&amp;#252;hrenden Wirtschaftsforschungsinstitute heben ihre Konjunkturerwartungen f&amp;#252;r das laufende Jahr deutlich an. Neben staatlichen Investitionen sorgen auch robuste Exportzahlen f&amp;#252;r R&amp;#252;ckenwind, w&amp;#228;hrend der Bitcoin-Kurs von neuen US-Regulierungsschritten profitiert. Die Hintergr&amp;#252;nde erl&amp;#228;utert der radioeins-Wirtschaftsexperte Nicolas Lieven.
+</description>
+				<ns0:encoded>&lt;p&gt;Die f&#252;hrenden Wirtschaftsforschungsinstitute heben ihre Konjunkturerwartungen f&#252;r das laufende Jahr deutlich an. Neben staatlichen Investitionen sorgen auch robuste Exportzahlen f&#252;r R&#252;ckenwind, w&#228;hrend der Bitcoin-Kurs von neuen US-Regulierungsschritten profitiert. Die Hintergr&#252;nde erl&#228;utert der radioeins-Wirtschaftsexperte Nicolas Lieven.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/1a/ba/1abaee77-badd-4551-8cbf-09d689218956/1abaee77-badd-4551-8cbf-09d689218956_mp3-256kd.mp3" type="audio/x-mpeg" length="8492306" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/1a/ba/1abaee77-badd-4551-8cbf-09d689218956/1abaee77-badd-4551-8cbf-09d689218956_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:25</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			</channel>
+</rss>
