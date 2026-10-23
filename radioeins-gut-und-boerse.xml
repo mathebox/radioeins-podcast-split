@@ -1,0 +1,141 @@
+<rss xmlns:ns0="http://purl.org/rss/1.0/modules/content/" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns2="http://www.w3.org/2005/Atom" version="2.0">
+	
+	<channel>
+			<title>Gut &amp; B&#246;rse</title>
+			<link>https://www.radioeins.de/export/updates.html</link>
+			<description />
+			<ns0:encoded />
+			<pubDate>Thu, 11 Jul 2019 14:42:29 +0200</pubDate>
+			<language>de</language>
+			<copyright>radioeins</copyright>
+			<managingEditor>rbbpodcast@rbb-online.de</managingEditor>
+			<webMaster>webmaster@rbb-online.de (webmaster rbb)</webMaster>
+			<category>Public Radio</category>
+			<ns1:subtitle />
+			<ns1:author>radioeins (rbb)</ns1:author>
+			<ns1:owner>
+				<ns1:name>radioeins (Rundfunk Berlin-Brandenburg)</ns1:name>
+				<ns1:email>rbbpodcast@rbb-online.de</ns1:email>
+			</ns1:owner>
+			<ns1:explicit>no</ns1:explicit>
+			<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+			<ns2:link href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/radioeins-gut-und-boerse.xml" rel="self" type="application/rss+xml" />
+			<image>
+				<url />
+				<title>Updates Radio Eins</title>
+				<link>https://www.radioeins.de/export/updates.html</link>
+			</image>
+			<item>
+				<title>PHP-Sicherheitsl&#252;cke: So pr&#252;fen Verbraucher m&#246;gliche Datenlecks</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/_/php-sicherheitsluecke-so-pruefen-verbraucher-moegliche-datenleck.html</link>
+				<pubDate>Fri, 23 Oct 2026 07:20:00 +0200</pubDate>
+				<description>Eine kritische Sicherheitsl&amp;#252;cke in der Programmiersprache PHP hat diese Woche weltweit zu vorsorglichen Abschaltungen von Websites gef&amp;#252;hrt. Zwar steht inzwischen ein Update bereit, doch die Gefahr m&amp;#246;glicher Datenlecks und Cyberangriffe ist damit nicht automatisch gebannt. Wie gro&amp;#223; die Gefahr f&amp;#252;r Verbraucherinnen und Verbraucher ist, und wie man herausfinden kann, ob man wom&amp;#246;glich von einem Datenleck betroffen ist, besprechen wir mit Hermann-Josef Tenhagen, Chefredakteur von Finanztip.de.
+</description>
+				<ns0:encoded>&lt;p&gt;Eine kritische Sicherheitsl&#252;cke in der Programmiersprache PHP hat diese Woche weltweit zu vorsorglichen Abschaltungen von Websites gef&#252;hrt. Zwar steht inzwischen ein Update bereit, doch die Gefahr m&#246;glicher Datenlecks und Cyberangriffe ist damit nicht automatisch gebannt. Wie gro&#223; die Gefahr f&#252;r Verbraucherinnen und Verbraucher ist, und wie man herausfinden kann, ob man wom&#246;glich von einem Datenleck betroffen ist, besprechen wir mit Hermann-Josef Tenhagen, Chefredakteur von Finanztip.de.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/73/f0/73f0def3-8bfa-4f0f-9c78-def34e969f95/73f0def3-8bfa-4f0f-9c78-def34e969f95_mp3-256kd.mp3" type="audio/x-mpeg" length="7928714" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/73/f0/73f0def3-8bfa-4f0f-9c78-def34e969f95/73f0def3-8bfa-4f0f-9c78-def34e969f95_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:08</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>r1s-top</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Meta-Rekordstrafe und BGH-Immobilienurteil</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20261022_d.html</link>
+				<pubDate>Thu, 22 Oct 2026 07:20:00 +0200</pubDate>
+				<description>Auf radioeins analysiert Wirtschaftsexperte Nicolas Lieven die 25-Milliarden-Dollar-Strafe gegen den Meta-Konzern wegen Datenschutzverst&amp;#246;&amp;#223;en in New Mexico. Zudem blickt er auf ein anstehendes BGH-Verfahren zur Frage, ob Immobilienk&amp;#228;ufer Schadensersatz verlangen k&amp;#246;nnen, wenn der Vorbesitzer M&amp;#228;ngel durch unsachgem&amp;#228;&amp;#223;es Heimwerken verursacht hat.
+</description>
+				<ns0:encoded>&lt;p&gt;Auf radioeins analysiert Wirtschaftsexperte Nicolas Lieven die 25-Milliarden-Dollar-Strafe gegen den Meta-Konzern wegen Datenschutzverst&#246;&#223;en in New Mexico. Zudem blickt er auf ein anstehendes BGH-Verfahren zur Frage, ob Immobilienk&#228;ufer Schadensersatz verlangen k&#246;nnen, wenn der Vorbesitzer M&#228;ngel durch unsachgem&#228;&#223;es Heimwerken verursacht hat.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/5a/c0/5ac066ec-93bb-4017-9777-02d0ff811f4c/5ac066ec-93bb-4017-9777-02d0ff811f4c_mp3-256kd.mp3" type="audio/x-mpeg" length="6164578" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/5a/c0/5ac066ec-93bb-4017-9777-02d0ff811f4c/5ac066ec-93bb-4017-9777-02d0ff811f4c_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:03:13</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Tabaksteuer-Panne und Tech-Bilanzen</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20261021_c.html</link>
+				<pubDate>Wed, 21 Oct 2026 07:20:00 +0200</pubDate>
+				<description>Auf radioeins analysiert Wirtschaftsexperte Nicolas Lieven die verpatzte Ver&amp;#246;ffentlichung des Tabaksteuergesetzes im Bundesgesetzblatt und ordnet die j&amp;#252;ngsten Quartalszahlen von Netflix und dem Raumfahrtkonkurrenten SpaceX ein.
+</description>
+				<ns0:encoded>&lt;p&gt;Auf radioeins analysiert Wirtschaftsexperte Nicolas Lieven die verpatzte Ver&#246;ffentlichung des Tabaksteuergesetzes im Bundesgesetzblatt und ordnet die j&#252;ngsten Quartalszahlen von Netflix und dem Raumfahrtkonkurrenten SpaceX ein.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/56/5e/565ed639-b8e6-483f-9da3-8c60dc7b7361/565ed639-b8e6-483f-9da3-8c60dc7b7361_mp3-256kd.mp3" type="audio/x-mpeg" length="7808866" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/56/5e/565ed639-b8e6-483f-9da3-8c60dc7b7361/565ed639-b8e6-483f-9da3-8c60dc7b7361_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:04</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Industrielle KI und Elon Musks PR-Coup</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20261020_b.html</link>
+				<pubDate>Tue, 20 Oct 2026 07:20:00 +0200</pubDate>
+				<description>Auf radioeins analysiert Wirtschaftsexperte Nicolas Lieven die Pl&amp;#228;ne von NVIDIA-Chef Jensen Huang zur industriellen KI in Deutschland. Er erkl&amp;#228;rt, warum heimische Produktionsdaten f&amp;#252;r US-Tech-Riesen so wertvoll sind und beleuchtet die Sorgen vor Datenabfluss. Zudem ordnet er Elon Musks Versprechen, US-Kindern SpaceX-Aktien zu schenken, kritisch ein.
+</description>
+				<ns0:encoded>&lt;p&gt;Auf radioeins analysiert Wirtschaftsexperte Nicolas Lieven die Pl&#228;ne von NVIDIA-Chef Jensen Huang zur industriellen KI in Deutschland. Er erkl&#228;rt, warum heimische Produktionsdaten f&#252;r US-Tech-Riesen so wertvoll sind und beleuchtet die Sorgen vor Datenabfluss. Zudem ordnet er Elon Musks Versprechen, US-Kindern SpaceX-Aktien zu schenken, kritisch ein.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/11/e2/11e2e4eb-743d-45a9-aa25-efdadc9303e8/11e2e4eb-743d-45a9-aa25-efdadc9303e8_mp3-256kd.mp3" type="audio/x-mpeg" length="9846370" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/11/e2/11e2e4eb-743d-45a9-aa25-efdadc9303e8/11e2e4eb-743d-45a9-aa25-efdadc9303e8_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:05:08</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Turbulenzen beim Tech-Boom und Investorensuche</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20261019_a.html</link>
+				<pubDate>Mon, 19 Oct 2026 07:20:00 +0200</pubDate>
+				<description>An den internationalen Finanzm&amp;#228;rkten sorgen Bedenken &amp;#252;ber ausbleibende Gewinne im Technologie-Sektor sowie neue Exportstopps aus Peking f&amp;#252;r sp&amp;#252;rbare Kursverluste. Auf radioeins analysiert Wirtschaftsexperte Nicolas Lieven die weltweite B&amp;#246;rsenlage und blickt auf das Investorentreffen in Berlin mit Kanzler Friedrich Merz und Nvidia.
+</description>
+				<ns0:encoded>&lt;p&gt;An den internationalen Finanzm&#228;rkten sorgen Bedenken &#252;ber ausbleibende Gewinne im Technologie-Sektor sowie neue Exportstopps aus Peking f&#252;r sp&#252;rbare Kursverluste. Auf radioeins analysiert Wirtschaftsexperte Nicolas Lieven die weltweite B&#246;rsenlage und blickt auf das Investorentreffen in Berlin mit Kanzler Friedrich Merz und Nvidia.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/c4/6b/c46b9c80-efda-42d8-af0a-7d0b6efed0bf/c46b9c80-efda-42d8-af0a-7d0b6efed0bf_mp3-256kd.mp3" type="audio/x-mpeg" length="8712034" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/c4/6b/c46b9c80-efda-42d8-af0a-7d0b6efed0bf/c46b9c80-efda-42d8-af0a-7d0b6efed0bf_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:32</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Pflegereform: Was hei&#223;t das f&#252;r mich?</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/_/pflegereform--was-heisst-das-fuer-mich-.html</link>
+				<pubDate>Fri, 16 Oct 2026 07:20:00 +0200</pubDate>
+				<description>Die gesetzliche Pflegeversicherung ist derzeit unterfinanziert. Etwa 7,6 Milliarden Euro fehlen n&amp;#228;chstes Jahr. Soweit bekannt. Eine erste Reform oder eher ein Hilfspaket sieht vor, dass Millionen Versicherte ab Januar 2027 voraussichtlich h&amp;#246;here Pflegebeitr&amp;#228;ge zahlen. Unter anderem ein Anstieg der Beitr&amp;#228;ge f&amp;#252;r Kinderlose ist geplant. Was diese Pflegereform f&amp;#252;r Sie bedeutet, das kl&amp;#228;ren wir mit Hermann-Josef Tenhagen, Chefredakteur von Finanztip.de.
+</description>
+				<ns0:encoded>&lt;p&gt;Die gesetzliche Pflegeversicherung ist derzeit unterfinanziert. Etwa 7,6 Milliarden Euro fehlen n&#228;chstes Jahr. Soweit bekannt. Eine erste Reform oder eher ein Hilfspaket sieht vor, dass Millionen Versicherte ab Januar 2027 voraussichtlich h&#246;here Pflegebeitr&#228;ge zahlen. Unter anderem ein Anstieg der Beitr&#228;ge f&#252;r Kinderlose ist geplant. Was diese Pflegereform f&#252;r Sie bedeutet, das kl&#228;ren wir mit Hermann-Josef Tenhagen, Chefredakteur von Finanztip.de.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/80/f1/80f1eb82-a5a8-440a-b0ad-535ca0461b2a/80f1eb82-a5a8-440a-b0ad-535ca0461b2a_mp3-256kd.mp3" type="audio/x-mpeg" length="7199842" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/80/f1/80f1eb82-a5a8-440a-b0ad-535ca0461b2a/80f1eb82-a5a8-440a-b0ad-535ca0461b2a_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:03:45</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>r1s-top</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Chinas Exportdruck und der Streit um Mindestl&#246;hne</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20261015_d.html</link>
+				<pubDate>Thu, 15 Oct 2026 07:20:00 +0200</pubDate>
+				<description>Auf dem EU-Gipfel beraten die Staats- und Regierungschefs &amp;#252;ber den Umgang mit subventionierten Importen aus China. Auf radioeins analysiert Wirtschaftsexperte Nicolas Lieven die europ&amp;#228;ische Handelsstrategie und beleuchtet zudem den wegweisenden Musterprozess um Mindestl&amp;#246;hne in Werkst&amp;#228;tten f&amp;#252;r Menschen mit Behinderung.
+</description>
+				<ns0:encoded>&lt;p&gt;Auf dem EU-Gipfel beraten die Staats- und Regierungschefs &#252;ber den Umgang mit subventionierten Importen aus China. Auf radioeins analysiert Wirtschaftsexperte Nicolas Lieven die europ&#228;ische Handelsstrategie und beleuchtet zudem den wegweisenden Musterprozess um Mindestl&#246;hne in Werkst&#228;tten f&#252;r Menschen mit Behinderung.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/6a/d9/6ad98079-ed5b-49e5-9103-dea632a7867b/6ad98079-ed5b-49e5-9103-dea632a7867b_mp3-256kd.mp3" type="audio/x-mpeg" length="8152930" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/6a/d9/6ad98079-ed5b-49e5-9103-dea632a7867b/6ad98079-ed5b-49e5-9103-dea632a7867b_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:15</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			</channel>
+</rss>
