@@ -1,0 +1,157 @@
+<rss xmlns:ns0="http://purl.org/rss/1.0/modules/content/" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns2="http://www.w3.org/2005/Atom" version="2.0">
+	
+	<channel>
+			<title>Gut &amp; B&#246;rse</title>
+			<link>https://www.radioeins.de/export/updates.html</link>
+			<description />
+			<ns0:encoded />
+			<pubDate>Thu, 11 Jul 2019 14:42:29 +0200</pubDate>
+			<language>de</language>
+			<copyright>radioeins</copyright>
+			<managingEditor>rbbpodcast@rbb-online.de</managingEditor>
+			<webMaster>webmaster@rbb-online.de (webmaster rbb)</webMaster>
+			<category>Public Radio</category>
+			<ns1:subtitle />
+			<ns1:author>radioeins (rbb)</ns1:author>
+			<ns1:owner>
+				<ns1:name>radioeins (Rundfunk Berlin-Brandenburg)</ns1:name>
+				<ns1:email>rbbpodcast@rbb-online.de</ns1:email>
+			</ns1:owner>
+			<ns1:explicit>no</ns1:explicit>
+			<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+			<ns2:link href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/radioeins-gut-und-boerse.xml" rel="self" type="application/rss+xml" />
+			<image>
+				<url />
+				<title>Updates Radio Eins</title>
+				<link>https://www.radioeins.de/export/updates.html</link>
+			</image>
+			<item>
+				<title>Weltspartag 2026 &#8211; Wie man auch mit kleinem Budget richtig spart</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/_/weltspartag-2026---wie-man-auch-mit-kleinem-budget-richtig-spart.html</link>
+				<pubDate>Fri, 30 Oct 2026 07:20:00 +0100</pubDate>
+				<description>Zum Weltspartag blickt radioeins auf die Finanzen der Deutschen. Finanztip-Chefredakteur Hermann-Josef Tenhagen erkl&amp;#228;rt, warum der Dispokredit die gr&amp;#246;&amp;#223;te Sparbremse ist, wie man schon ab 5 Euro im Monat Verm&amp;#246;gen aufbaut und welche Strategien bei kleinen und gro&amp;#223;en Sparraten wirklich Rendite bringen.
+</description>
+				<ns0:encoded>&lt;p&gt;Zum Weltspartag blickt radioeins auf die Finanzen der Deutschen. Finanztip-Chefredakteur Hermann-Josef Tenhagen erkl&#228;rt, warum der Dispokredit die gr&#246;&#223;te Sparbremse ist, wie man schon ab 5 Euro im Monat Verm&#246;gen aufbaut und welche Strategien bei kleinen und gro&#223;en Sparraten wirklich Rendite bringen.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/b8/95/b895f610-4caa-4ad7-9c7b-7244d115ad8f/b895f610-4caa-4ad7-9c7b-7244d115ad8f_mp3-256kd.mp3" type="audio/x-mpeg" length="8738914" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/b8/95/b895f610-4caa-4ad7-9c7b-7244d115ad8f/b895f610-4caa-4ad7-9c7b-7244d115ad8f_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:33</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>r1s-top, Wissen, Verbrauchertipp, Politik &amp; Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Kanada und Kreuzfahrten</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20261029_d.html</link>
+				<pubDate>Thu, 29 Oct 2026 07:20:00 +0100</pubDate>
+				<description>EU und Kanada n&amp;#228;hern sich weiter an +++ Lebenslange Kreuzfahrt-G&amp;#228;ste liegen in Kambodscha fest.
+</description>
+				<ns0:encoded>&lt;p&gt;EU und Kanada n&#228;hern sich weiter an +++ Lebenslange Kreuzfahrt-G&#228;ste liegen in Kambodscha fest.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/3a/2d/3a2d57a8-ca55-494a-a9ba-5fb04feed40f/3a2d57a8-ca55-494a-a9ba-5fb04feed40f_mp3-256kd.mp3" type="audio/x-mpeg" length="8798803" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/3a/2d/3a2d57a8-ca55-494a-a9ba-5fb04feed40f/3a2d57a8-ca55-494a-a9ba-5fb04feed40f_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:35</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Markenanalyse im globalen Vergleich und geplante Reform der Krypto-Besteuerung</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20261028_c.html</link>
+				<pubDate>Wed, 28 Oct 2026 07:20:00 +0100</pubDate>
+				<description>Deutsche Automarken verzeichnen laut der aktuellen Interbrand-Studie sinkende Markenwerte. Auf radioeins ordnet Wirtschaftsexperte Nicolas Lieven diesen Trend ein und erl&amp;#228;utert die geplante steuerliche Gleichstellung von Kryptow&amp;#228;hrungen.
+</description>
+				<ns0:encoded>&lt;p&gt;Deutsche Automarken verzeichnen laut der aktuellen Interbrand-Studie sinkende Markenwerte. Auf radioeins ordnet Wirtschaftsexperte Nicolas Lieven diesen Trend ein und erl&#228;utert die geplante steuerliche Gleichstellung von Kryptow&#228;hrungen.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/87/ce/87ce88f2-e24e-45f6-99df-ec44118b0fb5/87ce88f2-e24e-45f6-99df-ec44118b0fb5_mp3-256kd.mp3" type="audio/x-mpeg" length="9613666" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/87/ce/87ce88f2-e24e-45f6-99df-ec44118b0fb5/87ce88f2-e24e-45f6-99df-ec44118b0fb5_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:05:00</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Audi-Chef im Trump-Wahlkampf und Pl&#252;schtier-Hype</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20261027_b.html</link>
+				<pubDate>Tue, 27 Oct 2026 07:20:00 +0100</pubDate>
+				<description>Audi-Chef Gernot D&amp;#246;llner ger&amp;#228;t nach einem umstrittenen Auftritt bei US-Pr&amp;#228;sident Donald Trump massiv unter Druck. Auf radioeins ordnet Wirtschaftsexperte Nicolas Lieven die Krise ein und beleuchtet den Erwachsenen-Hype um &amp;#8222;Jellycat&amp;#8220;-Pl&amp;#252;schtiere.
+</description>
+				<ns0:encoded>&lt;p&gt;Audi-Chef Gernot D&#246;llner ger&#228;t nach einem umstrittenen Auftritt bei US-Pr&#228;sident Donald Trump massiv unter Druck. Auf radioeins ordnet Wirtschaftsexperte Nicolas Lieven die Krise ein und beleuchtet den Erwachsenen-Hype um &#8222;Jellycat&#8220;-Pl&#252;schtiere.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/f0/df/f0df4277-c7fb-4cd2-bc3c-2931fe1189af/f0df4277-c7fb-4cd2-bc3c-2931fe1189af_mp3-256kd.mp3" type="audio/x-mpeg" length="9383266" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/f0/df/f0df4277-c7fb-4cd2-bc3c-2931fe1189af/f0df4277-c7fb-4cd2-bc3c-2931fe1189af_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:53</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: &#214;lpreise und Roboter-Enten</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20261026_a.html</link>
+				<pubDate>Mon, 26 Oct 2026 07:20:00 +0100</pubDate>
+				<description>Obwohl durch die Stra&amp;#223;e von Hormuz aktuell reichlich &amp;#214;l transportiert wird, klettert der &amp;#214;lpreis auf ein Sechs-Monats-Hoch. Warum die Logistik auf See den Treibstoff immer teurer macht und weshalb eine 340 Euro teure Roboter-Ente aus Frankreich zum Renner wird, besprechen wir auf radioeins mit unserem Wirtschaftsexperten Nicolas Lieven.
+</description>
+				<ns0:encoded>&lt;p&gt;Obwohl durch die Stra&#223;e von Hormuz aktuell reichlich &#214;l transportiert wird, klettert der &#214;lpreis auf ein Sechs-Monats-Hoch. Warum die Logistik auf See den Treibstoff immer teurer macht und weshalb eine 340 Euro teure Roboter-Ente aus Frankreich zum Renner wird, besprechen wir auf radioeins mit unserem Wirtschaftsexperten Nicolas Lieven.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/91/33/913364b5-758d-4d00-a5ea-e3f86d20b314/913364b5-758d-4d00-a5ea-e3f86d20b314_mp3-256kd.mp3" type="audio/x-mpeg" length="8867938" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/91/33/913364b5-758d-4d00-a5ea-e3f86d20b314/913364b5-758d-4d00-a5ea-e3f86d20b314_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:38</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>PHP-Sicherheitsl&#252;cke: So pr&#252;fen Verbraucher m&#246;gliche Datenlecks</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/_/php-sicherheitsluecke-so-pruefen-verbraucher-moegliche-datenleck.html</link>
+				<pubDate>Fri, 23 Oct 2026 07:20:00 +0200</pubDate>
+				<description>Eine kritische Sicherheitsl&amp;#252;cke in der Programmiersprache PHP hat diese Woche weltweit zu vorsorglichen Abschaltungen von Websites gef&amp;#252;hrt. Zwar steht inzwischen ein Update bereit, doch die Gefahr m&amp;#246;glicher Datenlecks und Cyberangriffe ist damit nicht automatisch gebannt. Wie gro&amp;#223; die Gefahr f&amp;#252;r Verbraucherinnen und Verbraucher ist, und wie man herausfinden kann, ob man wom&amp;#246;glich von einem Datenleck betroffen ist, besprechen wir mit Hermann-Josef Tenhagen, Chefredakteur von Finanztip.de.
+</description>
+				<ns0:encoded>&lt;p&gt;Eine kritische Sicherheitsl&#252;cke in der Programmiersprache PHP hat diese Woche weltweit zu vorsorglichen Abschaltungen von Websites gef&#252;hrt. Zwar steht inzwischen ein Update bereit, doch die Gefahr m&#246;glicher Datenlecks und Cyberangriffe ist damit nicht automatisch gebannt. Wie gro&#223; die Gefahr f&#252;r Verbraucherinnen und Verbraucher ist, und wie man herausfinden kann, ob man wom&#246;glich von einem Datenleck betroffen ist, besprechen wir mit Hermann-Josef Tenhagen, Chefredakteur von Finanztip.de.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/73/f0/73f0def3-8bfa-4f0f-9c78-def34e969f95/73f0def3-8bfa-4f0f-9c78-def34e969f95_mp3-256kd.mp3" type="audio/x-mpeg" length="7928714" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/73/f0/73f0def3-8bfa-4f0f-9c78-def34e969f95/73f0def3-8bfa-4f0f-9c78-def34e969f95_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:08</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>r1s-top</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Meta-Rekordstrafe und BGH-Immobilienurteil</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20261022_d.html</link>
+				<pubDate>Thu, 22 Oct 2026 07:20:00 +0200</pubDate>
+				<description>Auf radioeins analysiert Wirtschaftsexperte Nicolas Lieven die 25-Milliarden-Dollar-Strafe gegen den Meta-Konzern wegen Datenschutzverst&amp;#246;&amp;#223;en in New Mexico. Zudem blickt er auf ein anstehendes BGH-Verfahren zur Frage, ob Immobilienk&amp;#228;ufer Schadensersatz verlangen k&amp;#246;nnen, wenn der Vorbesitzer M&amp;#228;ngel durch unsachgem&amp;#228;&amp;#223;es Heimwerken verursacht hat.
+</description>
+				<ns0:encoded>&lt;p&gt;Auf radioeins analysiert Wirtschaftsexperte Nicolas Lieven die 25-Milliarden-Dollar-Strafe gegen den Meta-Konzern wegen Datenschutzverst&#246;&#223;en in New Mexico. Zudem blickt er auf ein anstehendes BGH-Verfahren zur Frage, ob Immobilienk&#228;ufer Schadensersatz verlangen k&#246;nnen, wenn der Vorbesitzer M&#228;ngel durch unsachgem&#228;&#223;es Heimwerken verursacht hat.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/5a/c0/5ac066ec-93bb-4017-9777-02d0ff811f4c/5ac066ec-93bb-4017-9777-02d0ff811f4c_mp3-256kd.mp3" type="audio/x-mpeg" length="6164578" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/5a/c0/5ac066ec-93bb-4017-9777-02d0ff811f4c/5ac066ec-93bb-4017-9777-02d0ff811f4c_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:03:13</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			<item>
+				<title>Gut &amp; B&#246;rse: Tabaksteuer-Panne und Tech-Bilanzen</title>
+				<link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/wirtschaft/20261021_c.html</link>
+				<pubDate>Wed, 21 Oct 2026 07:20:00 +0200</pubDate>
+				<description>Auf radioeins analysiert Wirtschaftsexperte Nicolas Lieven die verpatzte Ver&amp;#246;ffentlichung des Tabaksteuergesetzes im Bundesgesetzblatt und ordnet die j&amp;#252;ngsten Quartalszahlen von Netflix und dem Raumfahrtkonkurrenten SpaceX ein.
+</description>
+				<ns0:encoded>&lt;p&gt;Auf radioeins analysiert Wirtschaftsexperte Nicolas Lieven die verpatzte Ver&#246;ffentlichung des Tabaksteuergesetzes im Bundesgesetzblatt und ordnet die j&#252;ngsten Quartalszahlen von Netflix und dem Raumfahrtkonkurrenten SpaceX ein.&lt;/p&gt;
+</ns0:encoded>
+				<enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/56/5e/565ed639-b8e6-483f-9da3-8c60dc7b7361/565ed639-b8e6-483f-9da3-8c60dc7b7361_mp3-256kd.mp3" type="audio/x-mpeg" length="7808866" />
+					<guid>https://rbbmediapmdp-a.akamaihd.net/content/56/5e/565ed639-b8e6-483f-9da3-8c60dc7b7361/565ed639-b8e6-483f-9da3-8c60dc7b7361_mp3-256kd.mp3</guid>
+				
+				
+						<ns1:duration>00:04:04</ns1:duration>
+				<ns1:image href="https://raw.githubusercontent.com/mathebox/radioeins-podcast-split/feeds/covers/radioeins-gut-und-boerse.png" />
+				<ns1:keywords>Timeicon, Politik &amp; Wirtschaft, r1s-boerse, Wirtschaft</ns1:keywords>
+			</item>
+			</channel>
+</rss>
